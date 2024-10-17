@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Movie Library</title>
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo">Dawan's<span>Library</span></div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Genres</a></li>
+                <li><a href="#">Top Rated</a></li>
+                <li><a href="#">Upcoming</a></li>
+            </ul>
+        </nav>
+        <div class="header-controls">
+            <input type="text" id="search-bar" placeholder="Search for a movie...">
+            <select id="genre-filter">
+                <option value="All">All Genres</option>
+            </select>
+            <button id="random-btn">Random Movie</button>
+            <button id="dark-mode-toggle" aria-label="Toggle Dark/Light Mode">🌙</button>
+            <div class="hamburger" aria-label="Toggle Navigation Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="movies-container" class="movies-grid">
+            
+        </section>
+        <div id="pagination" class="pagination">
+        </div>
+    </main>
+
+    <div id="modal" class="modal" aria-hidden="true" role="dialog" aria-labelledby="modal-title">
+        <div class="modal-content">
+            <button class="close-button" aria-label="Close Modal">&times;</button>
+            <div id="random-movie">
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

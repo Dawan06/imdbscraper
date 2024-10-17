@@ -1,0 +1,2716 @@
+[
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "rating": 9.2,
+        "runtime": 175,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Diane Keaton"
+        ],
+        "metascore": 100,
+        "poster": "MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "rating": 9,
+        "runtime": 152,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine"
+        ],
+        "metascore": 84,
+        "poster": "MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "rating": 8.7,
+        "runtime": 169,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Mackenzie Foy"
+        ],
+        "metascore": 74,
+        "poster": "MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "rating": 8.7,
+        "runtime": 136,
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ],
+        "metascore": 73,
+        "poster": "MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "rating": 8.4,
+        "runtime": 122,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "plot": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+        "cast": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz",
+            "Frances Conroy"
+        ],
+        "metascore": 59,
+        "poster": "MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "rating": 8.8,
+        "runtime": 139,
+        "genres": [
+            "Drama"
+        ],
+        "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf",
+            "Zach Grenier"
+        ],
+        "metascore": 67,
+        "poster": "MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "rating": 8.8,
+        "runtime": 148,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page",
+            "Ken Watanabe"
+        ],
+        "metascore": 74,
+        "poster": "MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+        "title": "Scarface",
+        "year": 1983,
+        "rating": 8.3,
+        "runtime": 170,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "plot": "Miami in the 1980s: a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Florida, and is eventually undone by his own drug addiction.",
+        "cast": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer",
+            "Mary Elizabeth Mastrantonio"
+        ],
+        "metascore": 65,
+        "poster": "MV5BYzhmZWRiNGQtM2JkZi00MDE1LTg1YmYtOGE4YjExMGY3OTIxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "La sociedad de la nieve",
+        "year": 2023,
+        "rating": 7.8,
+        "runtime": 144,
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "plot": "The flight of a rugby team crashes on a glacier in the Andes. The few passengers who survive the crash find themselves in one of the world's toughest environments to survive.",
+        "cast": [
+            "Enzo Vogrincic",
+            "Agustín Pardella",
+            "Matías Recalt",
+            "Esteban Bigliardi"
+        ],
+        "metascore": 72,
+        "poster": "MV5BZmYyZjQ5ZjctZjgxZS00NGFhLThiMzEtZGRlYTU2OWViMzNjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": 8.4,
+        "runtime": 164,
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+        "cast": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway",
+            "Gary Oldman"
+        ],
+        "metascore": 78,
+        "poster": "MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": 8.2,
+        "runtime": 180,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie",
+            "Matthew McConaughey"
+        ],
+        "metascore": 75,
+        "poster": "MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg"
+    },
+    {
+        "title": "The Revenant",
+        "year": 2015,
+        "rating": 8,
+        "runtime": 156,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Tom Hardy",
+            "Will Poulter",
+            "Domhnall Gleeson"
+        ],
+        "metascore": 76,
+        "poster": "MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "rating": 8.1,
+        "runtime": 141,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken",
+            "Martin Sheen"
+        ],
+        "metascore": 75,
+        "poster": "MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg"
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "rating": 8.2,
+        "runtime": 138,
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "plot": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo",
+            "Ben Kingsley"
+        ],
+        "metascore": 63,
+        "poster": "MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": 2023,
+        "rating": 8.3,
+        "runtime": 180,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "plot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bomb, thus helping end World War 2. We see his life from university days all the way to post-WW2.",
+        "cast": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ],
+        "metascore": 90,
+        "poster": "MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "rating": 8.5,
+        "runtime": 155,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Oliver Reed"
+        ],
+        "metascore": 67,
+        "poster": "MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Ready Player One",
+        "year": 2018,
+        "rating": 7.4,
+        "runtime": 140,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+        "cast": [
+            "Tye Sheridan",
+            "Olivia Cooke",
+            "Ben Mendelsohn",
+            "Lena Waithe"
+        ],
+        "metascore": 64,
+        "poster": "MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Menu",
+        "year": 2022,
+        "rating": 7.2,
+        "runtime": 107,
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Thriller"
+        ],
+        "plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+        "cast": [
+            "Ralph Fiennes",
+            "Anya Taylor-Joy",
+            "Nicholas Hoult",
+            "Hong Chau"
+        ],
+        "metascore": 71,
+        "poster": "MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Green Book",
+        "year": 2018,
+        "rating": 8.2,
+        "runtime": 130,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "cast": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini",
+            "Sebastian Maniscalco"
+        ],
+        "metascore": 69,
+        "poster": "MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Baby Driver",
+        "year": 2017,
+        "rating": 7.5,
+        "runtime": 113,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "Coerced into working for a crime boss, a young getaway driver must face the music when a doomed heist threatens his life, love, and freedom.",
+        "cast": [
+            "Ansel Elgort",
+            "Jon Bernthal",
+            "Jon Hamm",
+            "Eiza González"
+        ],
+        "metascore": 86,
+        "poster": "MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_.jpg"
+    },
+    {
+        "title": "The Hitman's Bodyguard: The Hitman vs. The Bodyguard",
+        "year": 2017,
+        "rating": 6.9,
+        "runtime": 5,
+        "genres": [
+            "Short",
+            "Action",
+            "Comedy"
+        ],
+        "plot": "Ryan Reynolds and Samuel L. Jackson star as an elite bodyguard and renowned hit man who is forced to work together. In order to succeed, they don't just have to avoid getting killed, they have to avoid killing each other.",
+        "cast": [
+            "Mark Christopher Collins",
+            "James Grogan",
+            "Samuel L. Jackson",
+            "Ryan Reynolds"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BOWZkODE1ZDctMzlkNy00N2Q5LTlhNGEtNmU3ODQ1MDY2NzQ3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Jumanji: Welcome to the Jungle",
+        "year": 2017,
+        "rating": 7,
+        "runtime": 119,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "plot": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+        "cast": [
+            "Dwayne Johnson",
+            "Karen Gillan",
+            "Kevin Hart",
+            "Jack Black"
+        ],
+        "metascore": 58,
+        "poster": "MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Wrath of Man",
+        "year": 2021,
+        "rating": 7.1,
+        "runtime": 119,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week.",
+        "cast": [
+            "Jason Statham",
+            "Holt McCallany",
+            "Josh Hartnett",
+            "Rocci Boy Williams"
+        ],
+        "metascore": 57,
+        "poster": "MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Kingsman: The Secret Service",
+        "year": 2014,
+        "rating": 7.7,
+        "runtime": 129,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "plot": "A spy organisation recruits a promising street kid into the agency's training program, while a global threat emerges from a twisted tech genius.",
+        "cast": [
+            "Colin Firth",
+            "Taron Egerton",
+            "Samuel L. Jackson",
+            "Michael Caine"
+        ],
+        "metascore": 60,
+        "poster": "MV5BODk1MTYwNTAtYmI5Zi00OWYyLWE0MzQtOWE4NDIxZmU2MjMwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Legend",
+        "year": 2015,
+        "rating": 6.9,
+        "runtime": 132,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.",
+        "cast": [
+            "Tom Hardy",
+            "Emily Browning",
+            "Taron Egerton",
+            "Paul Anderson"
+        ],
+        "metascore": 55,
+        "poster": "MV5BMjE0MjkyODQ3NF5BMl5BanBnXkFtZTgwNDM1OTk1NjE@._V1_.jpg"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "rating": 8.1,
+        "runtime": 152,
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "cast": [
+            "Matt Damon",
+            "Christian Bale",
+            "Jon Bernthal",
+            "Caitríona Balfe"
+        ],
+        "metascore": 81,
+        "poster": "MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Martian",
+        "year": 2015,
+        "rating": 8,
+        "runtime": 144,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+        "cast": [
+            "Matt Damon",
+            "Jessica Chastain",
+            "Kristen Wiig",
+            "Kate Mara"
+        ],
+        "metascore": 80,
+        "poster": "MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_.jpg"
+    },
+    {
+        "title": "The Truman Show",
+        "year": 1998,
+        "rating": 8.2,
+        "runtime": 103,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "cast": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney",
+            "Noah Emmerich"
+        ],
+        "metascore": 90,
+        "poster": "MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "year": 2005,
+        "rating": 7.6,
+        "runtime": 140,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "plot": "Three years into the Clone Wars, Obi-Wan Kenobi pursues a new threat, while Anakin Skywalker is lured by Chancellor Palpatine into a sinister plot to rule the galaxy.",
+        "cast": [
+            "Hayden Christensen",
+            "Natalie Portman",
+            "Ewan McGregor",
+            "Samuel L. Jackson"
+        ],
+        "metascore": 68,
+        "poster": "MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg"
+    },
+    {
+        "title": "Rush Hour",
+        "year": 1998,
+        "rating": 7,
+        "runtime": 98,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+        "cast": [
+            "Jackie Chan",
+            "Chris Tucker",
+            "Ken Leung",
+            "Tom Wilkinson"
+        ],
+        "metascore": 61,
+        "poster": "MV5BMGZiMzViNmEtNTNlZi00MzFmLTk5NTEtNDE2OTUzNmNlMTY4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "A Bronx Tale",
+        "year": 1993,
+        "rating": 7.8,
+        "runtime": 121,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "plot": "An intense drama about a boy torn between his tough, hard-working father and a violent yet charismatic crime boss.",
+        "cast": [
+            "Robert De Niro",
+            "Chazz Palminteri",
+            "Lillo Brancato",
+            "Francis Capra"
+        ],
+        "metascore": 80,
+        "poster": "MV5BZTZiZWFjY2UtMDYzOS00N2JhLTk5YmYtMGQ1Yjk5ZWYzZjI4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Sherlock",
+        "year": 2010,
+        "rating": 9.1,
+        "runtime": 90,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "plot": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+        "cast": [
+            "Benedict Cumberbatch",
+            "Martin Freeman",
+            "Una Stubbs",
+            "Rupert Graves"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Goodfellas",
+        "year": 1990,
+        "rating": 8.7,
+        "runtime": 145,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+        "cast": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci",
+            "Lorraine Bracco"
+        ],
+        "metascore": 92,
+        "poster": "MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Irishman",
+        "year": 2019,
+        "rating": 7.8,
+        "runtime": 209,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa.",
+        "cast": [
+            "Robert De Niro",
+            "Al Pacino",
+            "Joe Pesci",
+            "Harvey Keitel"
+        ],
+        "metascore": 94,
+        "poster": "MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "rating": 8.4,
+        "runtime": 181,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth"
+        ],
+        "metascore": 78,
+        "poster": "MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": 8.4,
+        "runtime": 149,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "rating": 8.2,
+        "runtime": 148,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+        "cast": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch",
+            "Jacob Batalon"
+        ],
+        "metascore": 71,
+        "poster": "MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "John Wick",
+        "year": 2014,
+        "rating": 7.4,
+        "runtime": 101,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "John Wick is a former hitman grieving the loss of his true love. When his home is broken into, robbed, and his dog killed, he is forced to return to action to exact revenge.",
+        "cast": [
+            "Keanu Reeves",
+            "Michael Nyqvist",
+            "Alfie Allen",
+            "Willem Dafoe"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg"
+    },
+    {
+        "title": "Killers of the Flower Moon",
+        "year": 2023,
+        "rating": 7.6,
+        "runtime": 206,
+        "genres": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "plot": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Robert De Niro",
+            "Lily Gladstone",
+            "Jesse Plemons"
+        ],
+        "metascore": 89,
+        "poster": "MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Batman",
+        "year": 2022,
+        "rating": 7.8,
+        "runtime": 176,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, The Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+        "cast": [
+            "Robert Pattinson",
+            "Zoë Kravitz",
+            "Jeffrey Wright",
+            "Colin Farrell"
+        ],
+        "metascore": 72,
+        "poster": "MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Logan",
+        "year": 2017,
+        "rating": 8.1,
+        "runtime": 137,
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+        "cast": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen",
+            "Boyd Holbrook"
+        ],
+        "metascore": 77,
+        "poster": "MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "rating": 8.2,
+        "runtime": 130,
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "plot": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+        "cast": [
+            "Tom Cruise",
+            "Jennifer Connelly",
+            "Miles Teller",
+            "Val Kilmer"
+        ],
+        "metascore": 78,
+        "poster": "MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Equalizer",
+        "year": 2014,
+        "rating": 7.2,
+        "runtime": 132,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.",
+        "cast": [
+            "Denzel Washington",
+            "Marton Csokas",
+            "Chloë Grace Moretz",
+            "David Harbour"
+        ],
+        "metascore": 57,
+        "poster": "MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_.jpg"
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "rating": 7.9,
+        "runtime": 162,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "cast": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver",
+            "Michelle Rodriguez"
+        ],
+        "metascore": 83,
+        "poster": "MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Hunger Games",
+        "year": 2012,
+        "rating": 7.2,
+        "runtime": 142,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+        "cast": [
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Liam Hemsworth",
+            "Stanley Tucci"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "300",
+        "year": 2006,
+        "rating": 7.6,
+        "runtime": 117,
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "plot": "In the ancient battle of Thermopylae, King Leonidas and 300 Spartans fight against Xerxes and his massive Persian army.",
+        "cast": [
+            "Gerard Butler",
+            "Lena Headey",
+            "David Wenham",
+            "Dominic West"
+        ],
+        "metascore": 52,
+        "poster": "MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg"
+    },
+    {
+        "title": "Jurassic World",
+        "year": 2015,
+        "rating": 6.9,
+        "runtime": 124,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+        "cast": [
+            "Chris Pratt",
+            "Bryce Dallas Howard",
+            "Ty Simpkins",
+            "Judy Greer"
+        ],
+        "metascore": 59,
+        "poster": "MV5BNzBhNzlkM2UtZTQyOC00NjUyLTkzMmMtNDQ1YTM5N2NmMGE5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Transformers",
+        "year": 2007,
+        "rating": 7.1,
+        "runtime": 144,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+        "cast": [
+            "Shia LaBeouf",
+            "Megan Fox",
+            "Josh Duhamel",
+            "Tyrese Gibson"
+        ],
+        "metascore": 61,
+        "poster": "MV5BZjM3ZDA2YmItMzhiMi00ZGI3LTg3ZGQtOTk3Nzk0MDY0ZDZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": 8.1,
+        "runtime": 139,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "cast": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey",
+            "Teresa Palmer"
+        ],
+        "metascore": 71,
+        "poster": "MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg"
+    },
+    {
+        "title": "The Pursuit of Happyness",
+        "year": 2006,
+        "rating": 8,
+        "runtime": 117,
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "plot": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+        "cast": [
+            "Will Smith",
+            "Thandiwe Newton",
+            "Jaden Smith",
+            "Brian Howe"
+        ],
+        "metascore": 64,
+        "poster": "MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": 9.3,
+        "runtime": 142,
+        "genres": [
+            "Drama"
+        ],
+        "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton",
+            "William Sadler"
+        ],
+        "metascore": 82,
+        "poster": "MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Coach Carter",
+        "year": 2005,
+        "rating": 7.3,
+        "runtime": 136,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "plot": "Controversy surrounds high school basketball coach Ken Carter after he benches his entire team for breaking their academic contract with him.",
+        "cast": [
+            "Samuel L. Jackson",
+            "Rick Gonzalez",
+            "Robert Ri'chard",
+            "Rob Brown"
+        ],
+        "metascore": 57,
+        "poster": "MV5BNjk0M2Y4ZTUtNzA3MS00MWYwLThmYjktMmYzNzVkYzQ3NmFlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Hustle",
+        "year": 2022,
+        "rating": 7.3,
+        "runtime": 117,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sport"
+        ],
+        "plot": "A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+        "cast": [
+            "Adam Sandler",
+            "Queen Latifah",
+            "Juancho Hernangomez",
+            "Ben Foster"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMzA4ODRlMjktMDEyNS00NTg5LWEwYTAtNTExODI1ZDE2ZmYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Creed",
+        "year": 2015,
+        "rating": 7.6,
+        "runtime": 133,
+        "genres": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "plot": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+        "cast": [
+            "Michael B. Jordan",
+            "Sylvester Stallone",
+            "Tessa Thompson",
+            "Phylicia Rashad"
+        ],
+        "metascore": 82,
+        "poster": "MV5BNWM3NjY2ZDctMGZiYy00OGFlLThkMTktOTY2MDM2YjE2OTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Real Steel",
+        "year": 2011,
+        "rating": 7.1,
+        "runtime": 127,
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "In a near future where robot boxing is a top sport, a struggling ex-boxer feels he's found a champion in a discarded robot.",
+        "cast": [
+            "Hugh Jackman",
+            "Evangeline Lilly",
+            "Dakota Goyo",
+            "Anthony Mackie"
+        ],
+        "metascore": 56,
+        "poster": "MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_.jpg"
+    },
+    {
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "rating": 6.8,
+        "runtime": 106,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to end it.",
+        "cast": [
+            "Vin Diesel",
+            "Paul Walker",
+            "Michelle Rodriguez",
+            "Jordana Brewster"
+        ],
+        "metascore": 58,
+        "poster": "MV5BZGRiMDE1NTMtMThmZS00YjE4LWI1ODQtNjRkZGZlOTg2MGE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Iron Man",
+        "year": 2008,
+        "rating": 7.9,
+        "runtime": 126,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "cast": [
+            "Robert Downey Jr.",
+            "Gwyneth Paltrow",
+            "Terrence Howard",
+            "Jeff Bridges"
+        ],
+        "metascore": 79,
+        "poster": "MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg"
+    },
+    {
+        "title": "The Hangover",
+        "year": 2009,
+        "rating": 7.7,
+        "runtime": 100,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+        "cast": [
+            "Zach Galifianakis",
+            "Bradley Cooper",
+            "Justin Bartha",
+            "Ed Helms"
+        ],
+        "metascore": 73,
+        "poster": "MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Rise of the Planet of the Apes",
+        "year": 2011,
+        "rating": 7.6,
+        "runtime": 105,
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising.",
+        "cast": [
+            "James Franco",
+            "Andy Serkis",
+            "Freida Pinto",
+            "Karin Konoval"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMjllODU1NDItODU1Ni00N2Y2LTg4Y2ItOTJjMTczZDliN2FhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Amazing Spider-Man",
+        "year": 2012,
+        "rating": 6.9,
+        "runtime": 136,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+        "cast": [
+            "Andrew Garfield",
+            "Emma Stone",
+            "Rhys Ifans",
+            "Irrfan Khan"
+        ],
+        "metascore": 66,
+        "poster": "MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg"
+    },
+    {
+        "title": "The 40 Year Old Virgin",
+        "year": 2005,
+        "rating": 7.1,
+        "runtime": 116,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "plot": "Goaded by his buddies, a nerdy guy who's never \"done the deed\" only finds the pressure mounting when he meets a single mother.",
+        "cast": [
+            "Steve Carell",
+            "Catherine Keener",
+            "Paul Rudd",
+            "Romany Malco"
+        ],
+        "metascore": 73,
+        "poster": "MV5BMzFiNzU2NjQtZTcwZC00Nzc3LTk3NjEtMDZmMDhmYjQ4NTAwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Superbad",
+        "year": 2007,
+        "rating": 7.6,
+        "runtime": 113,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+        "cast": [
+            "Michael Cera",
+            "Jonah Hill",
+            "Christopher Mintz-Plasse",
+            "Bill Hader"
+        ],
+        "metascore": 76,
+        "poster": "MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "21 Jump Street",
+        "year": 2012,
+        "rating": 7.2,
+        "runtime": 109,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+        "cast": [
+            "Jonah Hill",
+            "Channing Tatum",
+            "Ice Cube",
+            "Brie Larson"
+        ],
+        "metascore": 69,
+        "poster": "MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Ted",
+        "year": 2012,
+        "rating": 6.9,
+        "runtime": 106,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear, Ted or his girlfriend, Lori.",
+        "cast": [
+            "Mark Wahlberg",
+            "Mila Kunis",
+            "Seth MacFarlane",
+            "Joel McHale"
+        ],
+        "metascore": 62,
+        "poster": "MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg"
+    },
+    {
+        "title": "Step Brothers",
+        "year": 2008,
+        "rating": 6.9,
+        "runtime": 98,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+        "cast": [
+            "Will Ferrell",
+            "John C. Reilly",
+            "Mary Steenburgen",
+            "Richard Jenkins"
+        ],
+        "metascore": 51,
+        "poster": "MV5BYWNiOGZkOTgtNGMzMC00MDg5LTliM2UtN2VjMDI3N2ViOWE5XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "rating": 8.5,
+        "runtime": 165,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Western"
+        ],
+        "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+        "cast": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio",
+            "Kerry Washington"
+        ],
+        "metascore": 81,
+        "poster": "MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg"
+    },
+    {
+        "title": "Lord of War",
+        "year": 2005,
+        "rating": 7.6,
+        "runtime": 122,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+        "cast": [
+            "Nicolas Cage",
+            "Ethan Hawke",
+            "Jared Leto",
+            "Bridget Moynahan"
+        ],
+        "metascore": 62,
+        "poster": "MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "rating": 8.1,
+        "runtime": 120,
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+        "cast": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young",
+            "Carl Weathers"
+        ],
+        "metascore": 70,
+        "poster": "MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Fast and the Furious: Tokyo Drift - The Japanese Way",
+        "year": 2006,
+        "rating": 6.5,
+        "runtime": 10,
+        "genres": [
+            "Short",
+            "Action"
+        ],
+        "plot": "Related are the difficulties and surprising ease that was found working with the Japanese crew. The Japanese citizens and their modes of dress were also educating to all.",
+        "cast": [
+            "Justin Lin",
+            "Brian Tee",
+            "Lucas Black",
+            "Sanja Milkovic Hays"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_.jpg"
+    },
+    {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "rating": 7.5,
+        "runtime": 115,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "plot": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+        "cast": [
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Rachel McAdams",
+            "Benedict Wong"
+        ],
+        "metascore": 72,
+        "poster": "MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg"
+    },
+    {
+        "title": "The Social Network",
+        "year": 2010,
+        "rating": 7.8,
+        "runtime": 120,
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
+        "cast": [
+            "Jesse Eisenberg",
+            "Andrew Garfield",
+            "Justin Timberlake",
+            "Rooney Mara"
+        ],
+        "metascore": 95,
+        "poster": "MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Men in Black",
+        "year": 1997,
+        "rating": 7.3,
+        "runtime": 98,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "plot": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain.",
+        "cast": [
+            "Tommy Lee Jones",
+            "Will Smith",
+            "Linda Fiorentino",
+            "Vincent D'Onofrio"
+        ],
+        "metascore": 72,
+        "poster": "MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Bad Boys",
+        "year": 1995,
+        "rating": 6.8,
+        "runtime": 119,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+        "cast": [
+            "Will Smith",
+            "Martin Lawrence",
+            "Lisa Boyle",
+            "Michael Taliferro"
+        ],
+        "metascore": 41,
+        "poster": "MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "rating": 7.9,
+        "runtime": 194,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane",
+            "Kathy Bates"
+        ],
+        "metascore": 75,
+        "poster": "MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "King Kong",
+        "year": 2005,
+        "rating": 7.2,
+        "runtime": 187,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Romance"
+        ],
+        "plot": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+        "cast": [
+            "Naomi Watts",
+            "Jack Black",
+            "Adrien Brody",
+            "Thomas Kretschmann"
+        ],
+        "metascore": 81,
+        "poster": "MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Dictator",
+        "year": 2012,
+        "rating": 6.5,
+        "runtime": 83,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+        "cast": [
+            "Sacha Baron Cohen",
+            "Anna Faris",
+            "John C. Reilly",
+            "Ben Kingsley"
+        ],
+        "metascore": 58,
+        "poster": "MV5BM2IwMDM3ZmQtNjQ3NS00OTFiLWI5YzEtYWE3YjI5NTk3YzkwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "War Dogs",
+        "year": 2016,
+        "rating": 7.1,
+        "runtime": 114,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",
+        "cast": [
+            "Jonah Hill",
+            "Miles Teller",
+            "Steve Lantz",
+            "Gregg Weiner"
+        ],
+        "metascore": 57,
+        "poster": "MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_.jpg"
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "rating": 8.2,
+        "runtime": 140,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+        "cast": [
+            "Christian Bale",
+            "Michael Caine",
+            "Ken Watanabe",
+            "Liam Neeson"
+        ],
+        "metascore": 70,
+        "poster": "MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Now You See Me",
+        "year": 2013,
+        "rating": 7.2,
+        "runtime": 115,
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "plot": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+        "cast": [
+            "Jesse Eisenberg",
+            "Common",
+            "Mark Ruffalo",
+            "Woody Harrelson"
+        ],
+        "metascore": 50,
+        "poster": "MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_.jpg"
+    },
+    {
+        "title": "Happy Gilmore",
+        "year": 1996,
+        "rating": 7,
+        "runtime": 92,
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "plot": "After his grandmother's house is repossessed by the IRS, a bad tempered hockey player takes his talents to golf to earn the big bucks and get his grandmothers house back.",
+        "cast": [
+            "Adam Sandler",
+            "Christopher McDonald",
+            "Julie Bowen",
+            "Frances Bay"
+        ],
+        "metascore": 31,
+        "poster": "MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Four Brothers",
+        "year": 2005,
+        "rating": 6.8,
+        "runtime": 109,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "When their adoptive mother is gunned down in a store robbery, four brothers decide to investigate the murder and find the killers themselves, but not all is what it seems.",
+        "cast": [
+            "Mark Wahlberg",
+            "Tyrese Gibson",
+            "André 3000",
+            "Garrett Hedlund"
+        ],
+        "metascore": 49,
+        "poster": "MV5BMTU4NzM3Njg2NV5BMl5BanBnXkFtZTcwNjU4NDczMw@@._V1_.jpg"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "rating": 8.3,
+        "runtime": 126,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "plot": "Will Hunting, a janitor at MIT, has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "cast": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck",
+            "Stellan Skarsgård"
+        ],
+        "metascore": 71,
+        "poster": "MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Taken",
+        "year": 2008,
+        "rating": 7.7,
+        "runtime": 90,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+        "cast": [
+            "Liam Neeson",
+            "Maggie Grace",
+            "Famke Janssen",
+            "Leland Orser"
+        ],
+        "metascore": 51,
+        "poster": "MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Life",
+        "year": 2017,
+        "rating": 6.6,
+        "runtime": 104,
+        "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "plot": "A team of scientists aboard the International Space Station discover a rapidly evolving life form that caused extinction on Mars and now threatens all life on Earth.",
+        "cast": [
+            "Jake Gyllenhaal",
+            "Rebecca Ferguson",
+            "Ryan Reynolds",
+            "Hiroyuki Sanada"
+        ],
+        "metascore": 54,
+        "poster": "MV5BNWNkYWYzNGUtOWVjNS00MGY0LWIyY2YtODllNGIxOGRlOTgyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "We're the Millers",
+        "year": 2013,
+        "rating": 7,
+        "runtime": 110,
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+        "cast": [
+            "Jason Sudeikis",
+            "Jennifer Aniston",
+            "Emma Roberts",
+            "Ed Helms"
+        ],
+        "metascore": 44,
+        "poster": "MV5BNDQ0NWI1ZGEtY2NlMy00MWYyLTk4NGEtMTY5MmQ4YTcyY2E0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Bullet Train",
+        "year": 2022,
+        "rating": 7.3,
+        "runtime": 127,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Thriller"
+        ],
+        "plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+        "cast": [
+            "Brad Pitt",
+            "Joey King",
+            "Aaron Taylor-Johnson",
+            "Brian Tyree Henry"
+        ],
+        "metascore": 49,
+        "poster": "MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Maze Runner",
+        "year": 2014,
+        "rating": 6.8,
+        "runtime": 113,
+        "genres": [
+            "Action",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "plot": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.",
+        "cast": [
+            "Dylan O'Brien",
+            "Kaya Scodelario",
+            "Will Poulter",
+            "Thomas Brodie-Sangster"
+        ],
+        "metascore": 57,
+        "poster": "MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_.jpg"
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2007,
+        "rating": 8.1,
+        "runtime": 148,
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness.",
+        "cast": [
+            "Emile Hirsch",
+            "Vince Vaughn",
+            "Catherine Keener",
+            "Marcia Gay Harden"
+        ],
+        "metascore": 73,
+        "poster": "MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Tag",
+        "year": 2018,
+        "rating": 6.5,
+        "runtime": 100,
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "plot": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.",
+        "cast": [
+            "Jeremy Renner",
+            "Ed Helms",
+            "Jake Johnson",
+            "Jon Hamm"
+        ],
+        "metascore": 56,
+        "poster": "MV5BM2VhYTg4M2MtMWJiNS00ZTExLWI4MTMtNjE1NTQ1ODA0MTJjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Prison Break",
+        "year": 2005,
+        "rating": 8.3,
+        "runtime": 44,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "A structural engineer installs himself in a prison he helped design, in order to save his falsely accused brother from a death sentence by breaking themselves out from the inside.",
+        "cast": [
+            "Dominic Purcell",
+            "Wentworth Miller",
+            "Amaury Nolasco",
+            "Robert Knepper"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BMTljM2Y5OTUtMzg3Yy00ZjI3LTg4YzUtMmVkMGY2NTgyMmQ3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Founder",
+        "year": 2016,
+        "rating": 7.2,
+        "runtime": 115,
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "plot": "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
+        "cast": [
+            "Michael Keaton",
+            "Nick Offerman",
+            "John Carroll Lynch",
+            "Linda Cardellini"
+        ],
+        "metascore": 66,
+        "poster": "MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_.jpg"
+    },
+    {
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": 8.5,
+        "runtime": 106,
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "cast": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist",
+            "Paul Reiser"
+        ],
+        "metascore": 89,
+        "poster": "MV5BMmNkODhkYjctMDMyOC00ZTNjLTkwZTItM2ExMTAxMGU1ZGQ1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Intouchables",
+        "year": 2011,
+        "rating": 8.5,
+        "runtime": 112,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "cast": [
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny",
+            "Audrey Fleurot"
+        ],
+        "metascore": 57,
+        "poster": "MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg"
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "rating": 8.5,
+        "runtime": 150,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+        "cast": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay",
+            "Emilia Fox"
+        ],
+        "metascore": 85,
+        "poster": "MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "rating": 8.5,
+        "runtime": 116,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "cast": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson",
+            "Crispin Glover"
+        ],
+        "metascore": 87,
+        "poster": "MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Man of Steel",
+        "year": 2013,
+        "rating": 7.1,
+        "runtime": 143,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+        "cast": [
+            "Henry Cavill",
+            "Amy Adams",
+            "Michael Shannon",
+            "Diane Lane"
+        ],
+        "metascore": 55,
+        "poster": "MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_.jpg"
+    },
+    {
+        "title": "Thor",
+        "year": 2011,
+        "rating": 7,
+        "runtime": 115,
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+        "cast": [
+            "Chris Hemsworth",
+            "Anthony Hopkins",
+            "Natalie Portman",
+            "Tom Hiddleston"
+        ],
+        "metascore": 57,
+        "poster": "MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Game of Thrones",
+        "year": 2011,
+        "rating": 9.2,
+        "runtime": 60,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+        "cast": [
+            "Emilia Clarke",
+            "Peter Dinklage",
+            "Kit Harington",
+            "Lena Headey"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BOGY3NTg1ODMtOGIzZS00YWFiLTgzYzktNzBiYWZkYjcwNGRhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Extraction",
+        "year": 2020,
+        "rating": 6.8,
+        "runtime": 116,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+        "cast": [
+            "Chris Hemsworth",
+            "Bryon Lerum",
+            "Ryder Lerum",
+            "Rudhraksh Jaiswal"
+        ],
+        "metascore": 56,
+        "poster": "MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Better Call Saul",
+        "year": 2015,
+        "rating": 9,
+        "runtime": 45,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "plot": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to and past his fateful run-in with Walter White and Jesse Pinkman.",
+        "cast": [
+            "Bob Odenkirk",
+            "Rhea Seehorn",
+            "Jonathan Banks",
+            "Patrick Fabian"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Peanut Butter Falcon",
+        "year": 2019,
+        "rating": 7.6,
+        "runtime": 97,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "Zak, a man with down syndrome, runs away from a residential nursing home to pursue his dream of becoming a wrestler. Later, he meets with an outlaw who becomes his friend and coach.",
+        "cast": [
+            "Zack Gottsagen",
+            "Ann Pierce",
+            "Dakota Johnson",
+            "Bruce Dern"
+        ],
+        "metascore": 70,
+        "poster": "MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "rating": 8.9,
+        "runtime": 178,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom",
+            "Sean Bean"
+        ],
+        "metascore": 92,
+        "poster": "MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "rating": 8.1,
+        "runtime": 124,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "cast": [
+            "Roy Scheider",
+            "Robert Shaw",
+            "Richard Dreyfuss",
+            "Lorraine Gary"
+        ],
+        "metascore": 87,
+        "poster": "MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Terminator",
+        "year": 1984,
+        "rating": 8.1,
+        "runtime": 107,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior who will lead a resistance to save humankind from extinction.",
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn",
+            "Paul Winfield"
+        ],
+        "metascore": 84,
+        "poster": "MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Life of Pi",
+        "year": 2012,
+        "rating": 7.9,
+        "runtime": 127,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+        "cast": [
+            "Suraj Sharma",
+            "Irrfan Khan",
+            "Adil Hussain",
+            "Tabu"
+        ],
+        "metascore": 79,
+        "poster": "MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg"
+    },
+    {
+        "title": "Se7en",
+        "year": 1995,
+        "rating": 8.6,
+        "runtime": 127,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "cast": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey",
+            "Andrew Kevin Walker"
+        ],
+        "metascore": 65,
+        "poster": "MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Transporter",
+        "year": 2002,
+        "rating": 6.8,
+        "runtime": 92,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "plot": "Frank Martin, who \"transports\" packages for unknown clients, is asked to move a package that soon begins moving, and complications arise.",
+        "cast": [
+            "Jason Statham",
+            "Shu Qi",
+            "Matt Schulze",
+            "François Berléand"
+        ],
+        "metascore": 51,
+        "poster": "MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_.jpg"
+    },
+    {
+        "title": "Kong: Skull Island",
+        "year": 2017,
+        "rating": 6.7,
+        "runtime": 118,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "plot": "After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.",
+        "cast": [
+            "Tom Hiddleston",
+            "Samuel L. Jackson",
+            "Brie Larson",
+            "John C. Reilly"
+        ],
+        "metascore": 62,
+        "poster": "MV5BMTcwMjcxYTQtYjJlOS00YTE1LWIyZGYtOGRlOTBlMWZmYTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "In Time",
+        "year": 2011,
+        "rating": 6.7,
+        "runtime": 109,
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "plot": "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Will Salas is accused of murder and on the run with a hostage.",
+        "cast": [
+            "Justin Timberlake",
+            "Amanda Seyfried",
+            "Cillian Murphy",
+            "Olivia Wilde"
+        ],
+        "metascore": 53,
+        "poster": "MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_.jpg"
+    },
+    {
+        "title": "Breaking Bad",
+        "year": 2008,
+        "rating": 9.5,
+        "runtime": 45,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+        "cast": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn",
+            "Betsy Brandt"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "End of Watch",
+        "year": 2012,
+        "rating": 7.6,
+        "runtime": 109,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends and what happens when they meet criminal forces greater than themselves.",
+        "cast": [
+            "Jake Gyllenhaal",
+            "Michael Peña",
+            "Anna Kendrick",
+            "America Ferrera"
+        ],
+        "metascore": 68,
+        "poster": "MV5BMjMxNjU0ODU5Ml5BMl5BanBnXkFtZTcwNjI4MzAyOA@@._V1_.jpg"
+    },
+    {
+        "title": "The Gentlemen",
+        "year": 2019,
+        "rating": 7.8,
+        "runtime": 113,
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+        "cast": [
+            "Matthew McConaughey",
+            "Charlie Hunnam",
+            "Michelle Dockery",
+            "Jeremy Strong"
+        ],
+        "metascore": 51,
+        "poster": "MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Jerry & Marge Go Large",
+        "year": 2022,
+        "rating": 6.9,
+        "runtime": 96,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "Based on the true story about long-married couple Jerry and Marge Selbee, who win the lottery and use the money to revive their small town.",
+        "cast": [
+            "Bryan Cranston",
+            "Annette Bening",
+            "Rainn Wilson",
+            "Larry Wilmore"
+        ],
+        "metascore": 52,
+        "poster": "MV5BMjUyMTM1ZjAtMmI5MS00MDhmLWI3MGEtMTU3ODM1MjgyZDMyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Batman v Superman: Dawn of Justice",
+        "year": 2016,
+        "rating": 6.5,
+        "runtime": 151,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+        "cast": [
+            "Ben Affleck",
+            "Henry Cavill",
+            "Amy Adams",
+            "Jesse Eisenberg"
+        ],
+        "metascore": 44,
+        "poster": "MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "rating": 8,
+        "runtime": 128,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+        "cast": [
+            "Ryan Gosling",
+            "Emma Stone",
+            "Rosemarie DeWitt",
+            "J.K. Simmons"
+        ],
+        "metascore": 94,
+        "poster": "MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg"
+    },
+    {
+        "title": "Pawn Sacrifice",
+        "year": 2014,
+        "rating": 7,
+        "runtime": 115,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "plot": "Set during the Cold War, American chess prodigy Bobby Fischer finds himself caught between two superpowers and his own struggles as he challenges the Soviet Empire.",
+        "cast": [
+            "Tobey Maguire",
+            "Liev Schreiber",
+            "Peter Sarsgaard",
+            "Michael Stuhlbarg"
+        ],
+        "metascore": 65,
+        "poster": "MV5BMTk0MDYxNTE0OV5BMl5BanBnXkFtZTgwODgyNjU3NTE@._V1_.jpg"
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "year": 2007,
+        "rating": 7.2,
+        "runtime": 96,
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "plot": "Leslie and Jess create the secret kingdom of Terabithia, a land of monsters, trolls, ogres and giants where they spend their free time ruling as king and queen and fighting evil creatures.",
+        "cast": [
+            "Josh Hutcherson",
+            "AnnaSophia Robb",
+            "Zooey Deschanel",
+            "Robert Patrick"
+        ],
+        "metascore": 74,
+        "poster": "MV5BMTMzOTk1MzIyN15BMl5BanBnXkFtZTcwNTM3MjczMQ@@._V1_.jpg"
+    },
+    {
+        "title": "The Mask",
+        "year": 1994,
+        "rating": 6.9,
+        "runtime": 101,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+        "cast": [
+            "Jim Carrey",
+            "Cameron Diaz",
+            "Peter Riegert",
+            "Peter Greene"
+        ],
+        "metascore": 59,
+        "poster": "MV5BNGNmNjI0ZmMtMzI5MC00ZjUyLWFlZDEtYjUyMGZlN2E3N2E2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Dune: Part One",
+        "year": 2021,
+        "rating": 8,
+        "runtime": 155,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "plot": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+        "cast": [
+            "Timothée Chalamet",
+            "Rebecca Ferguson",
+            "Zendaya",
+            "Oscar Isaac"
+        ],
+        "metascore": 74,
+        "poster": "MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Don't Look Up",
+        "year": 2021,
+        "rating": 7.2,
+        "runtime": 138,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "plot": "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Jennifer Lawrence",
+            "Meryl Streep",
+            "Cate Blanchett"
+        ],
+        "metascore": 49,
+        "poster": "MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Mr. & Mrs. Smith",
+        "year": 2005,
+        "rating": 6.5,
+        "runtime": 120,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "plot": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+        "cast": [
+            "Brad Pitt",
+            "Angelina Jolie",
+            "Adam Brody",
+            "Vince Vaughn"
+        ],
+        "metascore": 55,
+        "poster": "MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_.jpg"
+    },
+    {
+        "title": "8 Mile",
+        "year": 2002,
+        "rating": 7.2,
+        "runtime": 110,
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "plot": "Follows a young rapper in the Detroit area, struggling with every aspect of his life; he wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.",
+        "cast": [
+            "Eminem",
+            "Brittany Murphy",
+            "Kim Basinger",
+            "Mekhi Phifer"
+        ],
+        "metascore": 77,
+        "poster": "MV5BMzFhZDhjMDAtZWJlZS00ZWUyLWFlZGMtYTcwZjFlODcyMGE2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "rating": 7.3,
+        "runtime": 141,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth"
+        ],
+        "metascore": 66,
+        "poster": "MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Boy Who Harnessed the Wind",
+        "year": 2019,
+        "rating": 7.6,
+        "runtime": 113,
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "plot": "Against all the odds, a thirteen-year-old boy in Malawi invents an unconventional way to save his family and village from famine.",
+        "cast": [
+            "Chiwetel Ejiofor",
+            "Maxwell Simba",
+            "Felix Lemburo",
+            "Robert Agengo"
+        ],
+        "metascore": 68,
+        "poster": "MV5BNjM2OTg5MTA0OV5BMl5BanBnXkFtZTgwNTMyNTY0NzM@._V1_.jpg"
+    },
+    {
+        "title": "Ojing-eo geim",
+        "year": 2021,
+        "rating": 8,
+        "runtime": 60,
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "plot": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes: a survival game that has a whopping 45.6 billion-won prize at stake.",
+        "cast": [
+            "Lee Jung-jae",
+            "Park Hae-soo",
+            "Nandito Hidayattullah Putra",
+            "Yasushi Iwaki"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BYTYzMTlmNDctNmVkNS00YzRlLWE5MjAtODdjZWRkYzRlNWVlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Split",
+        "year": 2016,
+        "rating": 7.3,
+        "runtime": 117,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "plot": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+        "cast": [
+            "James McAvoy",
+            "Anya Taylor-Joy",
+            "Haley Lu Richardson",
+            "Jessica Sula"
+        ],
+        "metascore": 63,
+        "poster": "MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Lamborghini: The Man Behind the Legend",
+        "year": 2022,
+        "rating": 5.4,
+        "runtime": 97,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "plot": "This thrilling, high-speed biopic reveals one man's dream of making the world's fastest car-and beating rival Enzo Ferrari.",
+        "cast": [
+            "Frank Grillo",
+            "Mira Sorvino",
+            "Gabriel Byrne",
+            "Eliana Jones"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BMmY3MDAyNDQtYmE2ZS00ZTBiLTgxZjctYTUwOGFjOThmMGU3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "La casa de papel",
+        "year": 2017,
+        "rating": 8.2,
+        "runtime": 60,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+        "cast": [
+            "Úrsula Corberó",
+            "Álvaro Morte",
+            "Itziar Ituño",
+            "Pedro Alonso"
+        ],
+        "metascore": "N/A",
+        "poster": "MV5BODM3NjE5MjItZDQ1ZC00MmMyLTk1MGItYTM0NDJkODUwNzBjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "I Am Legend",
+        "year": 2007,
+        "rating": 7.2,
+        "runtime": 101,
+        "genres": [
+            "Action",
+            "Drama",
+            "Horror"
+        ],
+        "plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+        "cast": [
+            "Will Smith",
+            "Alice Braga",
+            "Charlie Tahan",
+            "Salli Richardson-Whitfield"
+        ],
+        "metascore": 65,
+        "poster": "MV5BMGE1OWZkZmItNmVhMC00YzAxLTgxOTctNjg3NWExM2RmOWJkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Paul",
+        "year": 2011,
+        "rating": 6.9,
+        "runtime": 104,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "plot": "Two English comic book geeks traveling across the U.S. encounter an alien outside Area 51.",
+        "cast": [
+            "Simon Pegg",
+            "Nick Frost",
+            "Seth Rogen",
+            "Mia Stallard"
+        ],
+        "metascore": 57,
+        "poster": "MV5BOGIyZDNhODctYzg3ZS00YjVmLWE4NGEtYjM5OGM0MmQxYThmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "I, Robot",
+        "year": 2004,
+        "rating": 7.1,
+        "runtime": 115,
+        "genres": [
+            "Action",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "plot": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+        "cast": [
+            "Will Smith",
+            "Bridget Moynahan",
+            "Bruce Greenwood",
+            "Alan Tudyk"
+        ],
+        "metascore": 59,
+        "poster": "MV5BZDdhNTY3YTgtYmQwMC00MjM1LTgzYzMtMGM1N2E0NWM1NDlkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "The Internship",
+        "year": 2013,
+        "rating": 6.3,
+        "runtime": 119,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.",
+        "cast": [
+            "Vince Vaughn",
+            "Owen Wilson",
+            "Rose Byrne",
+            "Aasif Mandvi"
+        ],
+        "metascore": 42,
+        "poster": "MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_.jpg"
+    },
+    {
+        "title": "Meet the Parents",
+        "year": 2000,
+        "rating": 7,
+        "runtime": 108,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "plot": "Chicago male nurse and chronic under-achiever Greg Focker meets his charming teacher girlfriend Pam Byrnes' parents Jack and Dina before proposing, but suspicious Jack is an overprotective former CIA agent - every date's worst nightmare.",
+        "cast": [
+            "Ben Stiller",
+            "Robert De Niro",
+            "Teri Polo",
+            "Blythe Danner"
+        ],
+        "metascore": 73,
+        "poster": "MV5BZmE0MGI0OTctOGRlMy00MDdjLTg4M2EtNzFmZWNiNDhjYTgzXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Why Him?",
+        "year": 2016,
+        "rating": 6.2,
+        "runtime": 111,
+        "genres": [
+            "Comedy"
+        ],
+        "plot": "A holiday gathering threatens to go off the rails when Ned Fleming realizes that his daughter's Silicon Valley millionaire boyfriend is about to pop the question.",
+        "cast": [
+            "Zoey Deutch",
+            "James Franco",
+            "Tangie Ambrose",
+            "Cedric The Entertainer"
+        ],
+        "metascore": 39,
+        "poster": "MV5BMjViYmEzYjMtZTUyZS00NGE5LThiYjYtYWJlZmEwZDI5NGViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Pixels",
+        "year": 2015,
+        "rating": 5.6,
+        "runtime": 105,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "plot": "When aliens misinterpret video feeds of classic arcade games as a declaration of war, they attack the Earth in the form of the video games.",
+        "cast": [
+            "Adam Sandler",
+            "Kevin James",
+            "Michelle Monaghan",
+            "Peter Dinklage"
+        ],
+        "metascore": 27,
+        "poster": "MV5BMzIyNTc1NmUtOTBlNS00YzEwLTlkZTMtZjJkMGM2YzNkYmY3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "rating": 8.1,
+        "runtime": 128,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+        "cast": [
+            "Robin Williams",
+            "Robert Sean Leonard",
+            "Ethan Hawke",
+            "Josh Charles"
+        ],
+        "metascore": 79,
+        "poster": "MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "year": 2001,
+        "rating": 7.6,
+        "runtime": 152,
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+        "cast": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "Richard Harris"
+        ],
+        "metascore": 65,
+        "poster": "MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "title": "Black Panther",
+        "year": 2018,
+        "rating": 7.3,
+        "runtime": 134,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "cast": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Danai Gurira"
+        ],
+        "metascore": 88,
+        "poster": "MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    }
+]
