@@ -95,7 +95,7 @@ window.addEventListener('click', (event) => {
 
 function displayRandomMovie(movie) {
     randomMovieDiv.innerHTML = `
-        <img src="../movie_posters/${movie.poster}" alt="${movie.title}">
+        <img src="posters/${movie.poster}" alt="${movie.title}">
         <div class="movie-details-modal">
             <h2>${movie.title} (${movie.year})</h2>
             <p>⭐ ${movie.rating} / 10</p>
